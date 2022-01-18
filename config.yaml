@@ -1,0 +1,8 @@
+prefix: "!"
+giveaway_role: "Giveaway"
+bot_status_text: "🎉 | Giveaways"
+bot_activity: idle
+help_command: True
+setup_timeout: 15.0
+react_emoji: "🎉"
+ping_winner_message: True
