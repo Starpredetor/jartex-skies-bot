@@ -3,7 +3,7 @@ from discord.ext import commands
 import datetime
 import asyncio
 import random
-class giveaway(commands.Cog):
+class Giveaway(commands.Cog):
     def __init__(self, client):
         self.client = client
         self._last_member = None
